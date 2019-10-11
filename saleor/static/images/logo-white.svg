@@ -1,16 +1,16 @@
-<svg width="100" height="50" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="52" width="102" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-  </g>
- </g>
- <g>
-  <title>Layer 1</title>
-  <text stroke="#000" transform="matrix(11.390524889627613,0,0,1.256008589254833,-2157.315175909894,-35.47675953847508) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="164.453125" x="199.5" stroke-width="0" fill="#000000"/>
-  <text font-weight="bold" stroke="null" transform="matrix(3.245119773522447,0,0,2.3242375748625648,-510.34824613840135,-169.051090003445) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="159.328125" x="220.521177" stroke-width="0" fill="#ffffff">loun</text>
-  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="33.453125" x="23.5" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">loun</text>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="200" height="50" viewBox="0 0 200 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 48px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: "TimesNewRomanPS-BoldMT";
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <text y="36" class="cls-1"><tspan class="cls-2">lounShop</tspan></text>
 </svg>
