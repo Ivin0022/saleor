@@ -139,3 +139,4 @@ saleor/static/assets/
 templates/templated_email/compiled/
 
 webpack-bundle.json
+/env/
