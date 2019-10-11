@@ -36,7 +36,7 @@ dist/
 webpack-bundle.json
 /templates/templated_email/compiled/*
 !/templates/templated_email/compiled/.gitkeep
-/saleor/settings.py
+saleor/settings.py
 
 # Exported results file
 django-queries-results.html
